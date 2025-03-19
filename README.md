@@ -1,4 +1,4 @@
-# 🌤 Weather App
+# ☀️ Weather App
 
 This is a simple **Weather App** that allows users to search for the weather conditions of any city. It fetches real-time weather data using the **OpenWeatherMap API** and dynamically updates the background based on the weather conditions.
 
@@ -21,11 +21,13 @@ This is a simple **Weather App** that allows users to search for the weather con
 
 ---
 
----
-
-## 📥 Installation & Usage
+## 👅 Installation & Usage
 ### 1️⃣ Clone the repository:
 ```sh
-git clone <repository-url>
-
+git clone https://github.com/TornovDutta/Weather-app.git
 cd weather-app
+```
+
+### 2️⃣ Deploy:
+[Live Project](https://silly-donut-d83e4b.netlify.app/)
+
