@@ -25,6 +25,7 @@ This is a simple **Weather App** that allows users to search for the weather con
 ### 1️⃣ Clone the repository:
 ```sh
 git clone https://github.com/TornovDutta/Weather-app.git
+
 cd weather-app
 ```
 
